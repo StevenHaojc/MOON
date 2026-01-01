@@ -1,0 +1,239 @@
+V0_0645_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0882_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V0_0923_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V0_0164_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0244_0000 0 This is an abdominal CT scan showing a average esophagus, a small liver, and a small spleen.
+V0_0889_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0450_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1026_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V0_0791_0000 0 This is an abdominal CT scan showing a average esophagus, a large liver, and a small spleen.
+V0_0275_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0567_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1185_0000 0 This is an abdominal CT scan showing a large esophagus, a average liver, and a small spleen.
+V0_1094_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V0_1134_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V0_0454_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1100_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V0_1182_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0720_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1190_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0481_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0848_0000 0 This is an abdominal CT scan showing a average esophagus, a large liver, and a small spleen.
+V0_1146_0000 0 This is an abdominal CT scan showing a large esophagus, a small liver, and a small spleen.
+V0_0748_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1122_0000 0 This is an abdominal CT scan showing a large esophagus, a large liver, and a average spleen.
+V0_0785_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0978_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0442_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_0504_0000 0 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V0_1173_0000 0 This is an abdominal CT scan showing a average esophagus, a average liver, and a small spleen.
+V0_1187_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1252_0000 0 This is an abdominal CT scan showing a average esophagus, a average liver, and a small spleen.
+V0_0709_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1090_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V0_0711_0000 0 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V0_1217_0000 0 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V1_0278_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0475_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_1049_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0401_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0501_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a small spleen.
+V1_0353_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0132_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_0980_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0907_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V1_0461_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_1141_0000 1 This is an abdominal CT scan showing a average esophagus, a large liver, and a large spleen.
+V1_0696_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0067_0000 1 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V1_0694_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0291_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_1165_0000 1 This is an abdominal CT scan showing a average esophagus, a small liver, and a average spleen.
+V1_0041_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V1_1208_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0828_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0378_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_1083_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a average spleen.
+V1_0772_0000 1 This is an abdominal CT scan showing a average esophagus, a small liver, and a small spleen.
+V1_0208_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a small spleen.
+V1_0207_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0551_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_0053_0000 1 This is an abdominal CT scan showing a large esophagus, a small liver, and a small spleen.
+V1_0826_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_0426_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_1271_0000 1 This is an abdominal CT scan showing a average esophagus, a small liver, and a large spleen.
+V1_1266_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_0657_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_0713_0000 1 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V1_0251_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V1_0962_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0735_0000 1 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V1_0702_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0738_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0894_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V1_1195_0000 1 This is an abdominal CT scan showing a average esophagus, a very large liver, and a very large spleen.
+V1_0396_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0030_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V1_0787_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_0398_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0537_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V1_0683_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0284_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0017_0000 1 This is an abdominal CT scan showing a average esophagus, a small liver, and a average spleen.
+V1_0863_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0311_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V1_0459_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0255_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_0821_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V1_0663_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V1_1189_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a large spleen.
+V1_0705_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0708_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0597_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0811_0000 1 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V1_0123_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a small spleen.
+V1_0316_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V1_1269_0000 1 This is an abdominal CT scan showing a average esophagus, a average liver, and a small spleen.
+V1_1215_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_1170_0000 1 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V1_0477_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V1_0187_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a average spleen.
+V1_1131_0000 1 This is an abdominal CT scan showing a small esophagus, a average liver, and a average spleen.
+V1_0576_0000 1 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0845_0000 2 This is an abdominal CT scan showing a large esophagus, a large liver, and a average spleen.
+V2_0004_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V2_0641_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0637_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_1253_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V2_1043_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_1212_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a average spleen.
+V2_0009_0000 2 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V2_0762_0000 2 This is an abdominal CT scan showing a average esophagus, a small liver, and a small spleen.
+V2_0511_0000 2 This is an abdominal CT scan showing a average esophagus, a small liver, and a very large spleen.
+V2_0157_0000 2 This is an abdominal CT scan showing a small esophagus, a very large liver, and a average spleen.
+V2_0689_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0632_0000 2 This is an abdominal CT scan showing a average esophagus, a average liver, and a very large spleen.
+V2_0232_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0347_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0033_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a average spleen.
+V2_0443_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_1188_0000 2 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V2_1196_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V2_0335_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0726_0000 2 This is an abdominal CT scan showing a small esophagus, a very small liver, and a small spleen.
+V2_0669_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0131_0000 2 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V2_0715_0000 2 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V2_0939_0000 2 This is an abdominal CT scan showing a average esophagus, a very large liver, and a very large spleen.
+V2_0215_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0120_0000 2 This is an abdominal CT scan showing a average esophagus, a small liver, and a small spleen.
+V2_0588_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V2_0473_0000 2 This is an abdominal CT scan showing a small esophagus, a very small liver, and a small spleen.
+V2_1127_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V2_0832_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a average spleen.
+V2_1064_0000 2 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V2_1099_0000 2 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V2_0092_0000 2 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V2_0633_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a large spleen.
+V2_0767_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a small spleen.
+V2_0279_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0263_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0530_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a average spleen.
+V2_0805_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_1192_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a large spleen.
+V2_0642_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0741_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0491_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0182_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0493_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0304_0000 2 This is an abdominal CT scan showing a small esophagus, a small liver, and a small spleen.
+V2_0814_0000 2 This is an abdominal CT scan showing a large esophagus, a large liver, and a large spleen.
+V2_1250_0000 2 This is an abdominal CT scan showing a small esophagus, a average liver, and a average spleen.
+V2_1200_0000 2 This is an abdominal CT scan showing a average esophagus, a small liver, and a average spleen.
+V2_1119_0000 2 This is an abdominal CT scan showing a average esophagus, a small liver, and a small spleen.
+V3_0490_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0970_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V3_1007_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a very large spleen.
+V3_1225_0000 3 This is an abdominal CT scan showing a large esophagus, a very large liver, and a average spleen.
+V3_0928_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a very large spleen.
+V3_0198_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0532_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V3_0690_0000 3 This is an abdominal CT scan showing a large esophagus, a small liver, and a small spleen.
+V3_0272_0000 3 This is an abdominal CT scan showing a average esophagus, a small liver, and a large spleen.
+V3_0813_0000 3 This is an abdominal CT scan showing a large esophagus, a very large liver, and a average spleen.
+V3_0545_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0176_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a average spleen.
+V3_0197_0000 3 This is an abdominal CT scan showing a very large esophagus, a large liver, and a very large spleen.
+V3_0075_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a large spleen.
+V3_0745_0000 3 This is an abdominal CT scan showing a large esophagus, a very large liver, and a large spleen.
+V3_0439_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V3_0239_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a large spleen.
+V3_1120_0000 3 This is an abdominal CT scan showing a large esophagus, a very large liver, and a large spleen.
+V3_0146_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a very large spleen.
+V3_1149_0000 3 This is an abdominal CT scan showing a average esophagus, a small liver, and a small spleen.
+V3_0610_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a large spleen.
+V3_0654_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V3_1138_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a very large spleen.
+V3_0468_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V3_0348_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0384_0000 3 This is an abdominal CT scan showing a very large esophagus, a large liver, and a large spleen.
+V3_0200_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a large spleen.
+V3_0034_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V3_1168_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a very large spleen.
+V3_0960_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a large spleen.
+V3_0035_0000 3 This is an abdominal CT scan showing a average esophagus, a small liver, and a small spleen.
+V3_0564_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a large spleen.
+V3_0815_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0339_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V3_0001_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0242_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a large spleen.
+V3_0528_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a average spleen.
+V3_0050_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V3_0606_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a large spleen.
+V3_1153_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a large spleen.
+V3_1257_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0816_0000 3 This is an abdominal CT scan showing a very large esophagus, a large liver, and a large spleen.
+V3_0587_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0206_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0238_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a large spleen.
+V3_1019_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a large spleen.
+V3_0002_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a average spleen.
+V3_0736_0000 3 This is an abdominal CT scan showing a very large esophagus, a very large liver, and a average spleen.
+V3_0421_0000 3 This is an abdominal CT scan showing a very large esophagus, a very large liver, and a large spleen.
+V3_0875_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V3_0596_0000 3 This is an abdominal CT scan showing a large esophagus, a small liver, and a average spleen.
+V3_0331_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a large spleen.
+V3_0040_0000 3 This is an abdominal CT scan showing a very large esophagus, a large liver, and a large spleen.
+V3_0079_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a very large spleen.
+V3_0409_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a average spleen.
+V3_0565_0000 3 This is an abdominal CT scan showing a very large esophagus, a large liver, and a large spleen.
+V3_0808_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V3_0540_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a very large spleen.
+V3_0898_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V3_0230_0000 3 This is an abdominal CT scan showing a very large esophagus, a large liver, and a very large spleen.
+V3_0109_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a large spleen.
+V3_0133_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a large spleen.
+V3_0411_0000 3 This is an abdominal CT scan showing a very large esophagus, a small liver, and a small spleen.
+V3_0558_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_1164_0000 3 This is an abdominal CT scan showing a average esophagus, a very large liver, and a very large spleen.
+V3_0235_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V3_0629_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a very large spleen.
+V3_0047_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a small spleen.
+V3_0852_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V3_0563_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a average spleen.
+V3_0550_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a very large spleen.
+V3_1121_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a very large spleen.
+V3_0494_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a average spleen.
+V3_0604_0000 3 This is an abdominal CT scan showing a very large esophagus, a average liver, and a large spleen.
+V3_1098_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a very large spleen.
+V3_0931_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V3_0927_0000 3 This is an abdominal CT scan showing a very large esophagus, a large liver, and a average spleen.
+V3_0318_0000 3 This is an abdominal CT scan showing a large esophagus, a large liver, and a large spleen.
+V3_1056_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V3_0069_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a small spleen.
+V3_0427_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V3_0900_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a average spleen.
+V3_0569_0000 3 This is an abdominal CT scan showing a average esophagus, a very large liver, and a large spleen.
+V3_0344_0000 3 This is an abdominal CT scan showing a large esophagus, a average liver, and a average spleen.
+V3_1002_0000 3 This is an abdominal CT scan showing a average esophagus, a average liver, and a large spleen.
+V3_0403_0000 3 This is an abdominal CT scan showing a average esophagus, a large liver, and a large spleen.
